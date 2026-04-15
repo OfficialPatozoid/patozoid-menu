@@ -20,8 +20,7 @@ local playerGui = player:WaitForChild("PlayerGui")
 local KEYS = {
     ["PLAYER1"] = "123456",
     ["PLAYER2"] = "654321",
-    ["ADMIN"] = "SUPERADMIN",
-    ["PATOZOID"] = "KEY-D13C2658-AD10A378-A4D0F8F8"
+    ["ADMIN"] = "SUPERADMIN"
 }
 
 local GAME_SCRIPTS = {
