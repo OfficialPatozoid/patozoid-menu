@@ -8,8 +8,7 @@ local PlayerGui = LocalPlayer:WaitForChild("PlayerGui")
 local KEYS = {
     ["PLAYER1"] = "123456",
     ["PLAYER2"] = "654321",
-    ["ADMIN"] = "SUPERADMIN",
-    ["GS_GOSTOSO_"] = "KEY-38C6B399-82C22572-CBE3413F"
+    ["ADMIN"]    = "SUPERADMIN",
 }
 local GAME_RAWS = {
     ["123456"]   = "raw.githubusercontent.com/seuusuario/seurepo/main/script1.lua",
