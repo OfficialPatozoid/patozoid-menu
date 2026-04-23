@@ -10,6 +10,7 @@ local KEYS = {
     ["PLAYER2"] = "654321",
     ["ADMIN"] = "SUPERADMIN",
     ["HAHAJA"] = "KEY-7EFA2C4C-6883FE9A-4421863E",
+    ["HE"] = "KEY-7A623CB3-B6FF448A-6BE9AA44",
 }
 local GAME_RAWS = {
     ["123456"]   = "raw.githubusercontent.com/seuusuario/seurepo/main/script1.lua",
